@@ -2,7 +2,7 @@
 
 End to end implementation of OCR project.
 
-Steps:
+##### Steps:
 1. Click the image of the document OR scan the document.
 2. Allign the document
 3. Extract required information
